@@ -22,6 +22,15 @@ $black: #000;
     transition:         all $transition ease;
 }
 
+#title {
+	padding-left: 38px;
+	padding-right: 38px;
+	z-index: 5;
+	position: relative;
+	background-color:red;
+	white-space: nowrap;
+  }
+
 html {
 	// overflow-x: hidden;
 }
